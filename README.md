@@ -48,7 +48,7 @@ git clone git@github.com:sonalibansal/coffeemachine.git
 2. **Run the repository**
  Go to CoffeeMachine class and run main function from there .
 
-3. ** Running the test cases **
+3. **Running the test cases**
 Integration tests are written for this code base which you can find inside 
 ```/coffee-machine/src/test/java/coffeemachine/services/BeverageServiceImplTest.java```
 
